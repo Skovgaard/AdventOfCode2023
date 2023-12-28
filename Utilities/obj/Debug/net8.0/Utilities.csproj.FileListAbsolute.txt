@@ -1,0 +1,11 @@
+/Users/skov/Projects/AdventOfCode2023/Utilities/bin/Debug/net8.0/Utilities.deps.json
+/Users/skov/Projects/AdventOfCode2023/Utilities/bin/Debug/net8.0/Utilities.dll
+/Users/skov/Projects/AdventOfCode2023/Utilities/bin/Debug/net8.0/Utilities.pdb
+/Users/skov/Projects/AdventOfCode2023/Utilities/obj/Debug/net8.0/Utilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skov/Projects/AdventOfCode2023/Utilities/obj/Debug/net8.0/Utilities.AssemblyInfoInputs.cache
+/Users/skov/Projects/AdventOfCode2023/Utilities/obj/Debug/net8.0/Utilities.AssemblyInfo.cs
+/Users/skov/Projects/AdventOfCode2023/Utilities/obj/Debug/net8.0/Utilities.csproj.CoreCompileInputs.cache
+/Users/skov/Projects/AdventOfCode2023/Utilities/obj/Debug/net8.0/Utilities.dll
+/Users/skov/Projects/AdventOfCode2023/Utilities/obj/Debug/net8.0/refint/Utilities.dll
+/Users/skov/Projects/AdventOfCode2023/Utilities/obj/Debug/net8.0/Utilities.pdb
+/Users/skov/Projects/AdventOfCode2023/Utilities/obj/Debug/net8.0/ref/Utilities.dll
