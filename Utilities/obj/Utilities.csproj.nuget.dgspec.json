@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/skov/Projects/AdventOfCode2023/Utilities/Utilities.csproj": {}
+    "C:\\Users\\skovg\\Projects\\AdventOfCode2023\\Utilities\\Utilities.csproj": {}
   },
   "projects": {
-    "/Users/skov/Projects/AdventOfCode2023/Utilities/Utilities.csproj": {
+    "C:\\Users\\skovg\\Projects\\AdventOfCode2023\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/skov/Projects/AdventOfCode2023/Utilities/Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\skovg\\Projects\\AdventOfCode2023\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "/Users/skov/Projects/AdventOfCode2023/Utilities/Utilities.csproj",
-        "packagesPath": "/Users/skov/.nuget/packages/",
-        "outputPath": "/Users/skov/Projects/AdventOfCode2023/Utilities/obj/",
+        "projectPath": "C:\\Users\\skovg\\Projects\\AdventOfCode2023\\Utilities\\Utilities.csproj",
+        "packagesPath": "C:\\Users\\skovg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\skovg\\Projects\\AdventOfCode2023\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/skov/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\skovg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
