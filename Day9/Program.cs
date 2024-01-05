@@ -3,8 +3,6 @@
 var sumOfExtrapolatedValues = 0L;
 var sumOfExtrapolatedValuesPart2 = 0L;
 
-var values = new List<List<List<long>>>();
-
 try
 {
     using var sr = Utility.ReadInputFileForProject(Directory.GetCurrentDirectory());
@@ -51,7 +49,6 @@ try
             beforeHistoryEntry[0] = newValue;
         }
 
-        values.Add(history);
         sumOfExtrapolatedValues += history[0].Last();
         sumOfExtrapolatedValuesPart2 += history[0].First();
     }
