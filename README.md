@@ -18,7 +18,7 @@ Problems from [AdventOfCode](https://adventofcode.com/2023)
  8   | :heavy_check_mark: | :heavy_check_mark: 
  9   | :heavy_check_mark: | :heavy_check_mark: 
  10  | :heavy_check_mark: | :heavy_check_mark: 
- 11  | :heavy_check_mark: |
+ 11  | :heavy_check_mark: | :heavy_check_mark: 
  12  |                    |
  13  |                    |
  14  |                    |
