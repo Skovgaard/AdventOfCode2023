@@ -827,5 +827,5 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 # Ignore user specific puzzle input
-*/input.txt
-*/readme.md
+**/input.txt
+**/README.md

@@ -20,7 +20,7 @@ Problems from [AdventOfCode](https://adventofcode.com/2023)
  10  | :heavy_check_mark: | :heavy_check_mark: 
  11  | :heavy_check_mark: | :heavy_check_mark: 
  12  |                    |
- 13  |                    |
+ 13  | :heavy_check_mark: |
  14  |                    |
  15  |                    |
  16  |                    |
